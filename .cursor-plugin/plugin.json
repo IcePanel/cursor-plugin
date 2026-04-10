@@ -1,0 +1,13 @@
+{
+  "name": "icepanel",
+  "version": "1.0.0",
+  "description": "Cursor Plugin for IcePanel - enables AI assistants to manage models, connections, and more across your IcePanel landscape",
+  "author": {
+    "name": "IcePanel",
+    "email": "support@icepanel.io",
+    "url": "https://icepanel.io"
+  },
+  "keywords": ["icepanel", "mcp", "models", "connections", "diagrams", "flows"],
+  "logo": "logo.svg",
+  "primaryColor": "#8CECFF"
+}

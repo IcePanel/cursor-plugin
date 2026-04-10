@@ -1,0 +1,6 @@
+{
+  "icepanel": {
+    "url": "https://mcp.icepanel.io/mcp",
+    "transport": "http"
+  }
+}
